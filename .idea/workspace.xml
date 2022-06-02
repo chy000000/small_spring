@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28gGvuKMKE4Jj6qZVJJLscSnjek" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-06/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chy.springframework.test" />
+      <recent name="com.chy.springframework.beans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\main\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\test\java\com\chy\springframework\test\bean" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\main\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-04\src\test\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-04\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test_xml">
+    <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_classpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_classpath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_file" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_url" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_url" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_xml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_xml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test_xml" />
+        <item itemvalue="JUnit.ApiTest.test_url" />
+        <item itemvalue="JUnit.ApiTest.test_file" />
+        <item itemvalue="JUnit.ApiTest.test_classpath" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="" />
+      <created>1651631048535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651631048535</updated>
+      <workItem from="1651631055763" duration="13768000" />
+      <workItem from="1651837630540" duration="6258000" />
+      <workItem from="1651890570115" duration="8687000" />
+      <workItem from="1651915494315" duration="180000" />
+      <workItem from="1651918998196" duration="1372000" />
+      <workItem from="1651927816884" duration="2842000" />
+      <workItem from="1651974294592" duration="2699000" />
+      <workItem from="1652016285155" duration="2869000" />
+      <workItem from="1654162002016" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="731" key="#Intentions" timestamp="1651651196411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="731" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1651651196411" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1651979184815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1651979184815" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1652020515956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1652020515956" />
+    <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1652020632233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652020632233" />
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.0.center" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.0.left" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.0.right" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1651920391954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391954" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1651920391953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
+    <state x="450" y="189" key="SettingsEditor" timestamp="1651979140443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1651979140443" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654162016946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654162016946" />
+    <state x="334" y="214" key="new project wizard" timestamp="1651979042795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1651979042795" />
+    <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1651637336010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651637336010" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1651895760076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651895760076" />
+  </component>
+</project>
