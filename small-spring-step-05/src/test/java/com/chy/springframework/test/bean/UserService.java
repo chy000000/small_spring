@@ -7,15 +7,22 @@ package com.chy.springframework.test.bean;
  */
 public class UserService {
     private String uId;
-
+    private String company;
     private UserDao userDao;
 
     public UserService() {
     }
 
+    public String getCompany() {
+        return company;
+    }
+
+    public void setCompany(String company) {
+        this.company = company;
+    }
 
     public String queryUserInfo() {
-        return userDao.queryUserName(uId);
+        return userDao.queryUserName(uId) + company;
     }
 
     public String getuId() {

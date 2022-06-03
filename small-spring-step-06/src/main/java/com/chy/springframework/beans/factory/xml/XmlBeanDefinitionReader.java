@@ -57,6 +57,13 @@ public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
         loadBeanDefinitions(resource);
     }
 
+    @Override
+    public void loadBeanDefinitions(String... locations) throws BeansException {
+        for (String location : locations) {
+            loadBeanDefinitions(location);
+        }
+    }
+
     protected void doLoadBeanDefinitions(InputStream inputStream) throws ClassNotFoundException, BeansException {
         Document doc = XmlUtil.readXML(inputStream);
         Element root = doc.getDocumentElement();
@@ -67,6 +74,7 @@ public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
             if (!"bean".equals(childNodes.item(i).getNodeName())) continue;
 
             Element bean = (Element) childNodes.item(i);
+
             String id = bean.getAttribute("id");
             String name = bean.getAttribute("name");
             String className = bean.getAttribute("class");
@@ -78,7 +86,7 @@ public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
 
             BeanDefinition beanDefinition = new BeanDefinition(clazz);
 
-            for(int j=0; j<childNodes.getLength(); j++) {
+            for(int j=0; j<bean.getChildNodes().getLength(); j++) {
                 if (!(bean.getChildNodes().item(j) instanceof Element)) continue;
                 if (!"property".equals(bean.getChildNodes().item(j).getNodeName())) continue;
 

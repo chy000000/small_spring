@@ -1,5 +1,6 @@
 package com.chy.springframework.beans.factory.config;
 
+import com.chy.springframework.beans.BeansException;
 import com.chy.springframework.beans.factory.BeanFactory;
 
 /**
@@ -8,4 +9,8 @@ import com.chy.springframework.beans.factory.BeanFactory;
  * @Description:
  */
 public interface AutowireCapableBeanFactory extends BeanFactory {
+
+    Object applyBeanPostProcessorsBeforeInitialization(Object existingBean, String beanName) throws BeansException;
+
+    Object applyBeanPostProcessorsAfterInitialization(Object existingBean, String beanName) throws BeansException;
 }

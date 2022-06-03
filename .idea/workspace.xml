@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="" />
+    <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/small-spring-step-05/src/main/java/com/chy/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-05/src/main/java/com/chy/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-05/src/test/java/com/chy/springframework/test/bean/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-05/src/test/java/com/chy/springframework/test/bean/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-05/src/test/resource/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-05/src/test/resource/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-05/target/test-classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-05/target/test-classes/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-06/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/BeansException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/ConfigurableListableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/HierarchicalBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/ListableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/BeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/PropertyValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/PropertyValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/config/AutowireCapableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/config/BeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/config/BeanReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/config/ConfigurableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/config/SingletonBeanRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/AbstractBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/AbstractBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/BeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/BeanDefinitionRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/DefaultListableBeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/InstantiationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/SimpleInstantiationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/ClassPathResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/DefaultResourceLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/FileSystemResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/Resource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/ResourceLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/core/io/UrlResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/utils/ClassUtils.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +50,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -28,6 +67,9 @@
     </option>
   </component>
   <component name="ProjectId" id="28gGvuKMKE4Jj6qZVJJLscSnjek" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,11 +78,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-06/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-06/src/test" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -48,16 +90,16 @@
       <recent name="com.chy.springframework.beans" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\test" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\test\java" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\main\java" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\test\java\com\chy\springframework\test\bean" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\main\java" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-04\src\test\java" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-04\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.test_xml">
-    <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-05" />
+  <component name="RunManager" selected="JUnit.ApiTest.test_xml (1)">
+    <configuration name="ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chy.springframework.test.*" />
@@ -66,23 +108,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_BeanFactory" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_classpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chy.springframework.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
-      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_classpath" />
+      <option name="METHOD_NAME" value="test_BeanFactoryPostProcessorAndBeanPostProcessor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,6 +146,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ApiTest.test_xml (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_xml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest.test_xml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-05" />
       <extension name="coverage">
@@ -138,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_xml (1)" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" />
         <item itemvalue="JUnit.ApiTest.test_xml" />
         <item itemvalue="JUnit.ApiTest.test_url" />
         <item itemvalue="JUnit.ApiTest.test_file" />
-        <item itemvalue="JUnit.ApiTest.test_classpath" />
-        <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -180,50 +222,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1651979184815" />
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1652020515956">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1654257920965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1652020515956" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654257920965" />
     <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1652020632233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652020632233" />
-    <state width="1876" height="348" key="GridCell.Tab.0.bottom" timestamp="1651920391953">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1654260212792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.0.center" timestamp="1651920391953">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654260212792" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1654260212792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.0.left" timestamp="1651920391953">
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654260212792" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1654260212791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.0.right" timestamp="1651920391953">
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654260212791" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1654260212792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1651920391954">
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654260212792" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1654260183448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391954" />
-    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1651920391953">
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654260183448" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1654260183448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1651920391953">
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654260183448" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1654260183448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1651920391953">
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654260183448" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1654260183448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651920391953" />
-    <state x="450" y="189" key="SettingsEditor" timestamp="1651979140443">
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654260183448" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1654255105596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1651979140443" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654255105596" />
+    <state x="450" y="189" key="SettingsEditor" timestamp="1654255225273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654255225273" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654162016946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,5 +286,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651895760076" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/context/support/ClassPathXmlApplicationContext.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
