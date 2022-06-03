@@ -25,6 +25,8 @@ import java.io.InputStream;
  * @Description:
  */
 public class ApiTest {
+
+    // 从xml配置文件中注册bean
     @Test
     public void test_BeanFactory() throws BeansException {
         DefaultListableBeanFactory beanFactory = new DefaultListableBeanFactory();
