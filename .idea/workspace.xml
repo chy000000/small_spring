@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/small-spring-step-01/src/test/java/com/chy/springframework/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-01/src/test/java/com/chy/springframework/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-02/src/test/java/com/chy/springframework/test/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-02/src/test/java/com/chy/springframework/test/ApiTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

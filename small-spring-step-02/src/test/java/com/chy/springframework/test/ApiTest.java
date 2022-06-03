@@ -12,6 +12,8 @@ import org.junit.Test;
  * @Description:
  */
 public class ApiTest {
+
+    //实现bean定义、注册和获取
     @Test
     public void test_BeanFactory() throws BeansException {
         // 初始化BeanFactory
