@@ -10,6 +10,7 @@ import org.junit.Test;
  */
 public class ApiTest {
 
+    // 简单spring容器
     @Test
     public void test_BeanFactory() {
         // 初始化BeanFactory
