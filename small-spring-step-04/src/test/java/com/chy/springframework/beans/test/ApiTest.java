@@ -20,6 +20,8 @@ import java.lang.reflect.Constructor;
  * @Description:
  */
 public class ApiTest {
+
+    // bean属性注入
     @Test
     public void test_BeanFactory() throws BeansException {
         // 初始化BeanFactory
