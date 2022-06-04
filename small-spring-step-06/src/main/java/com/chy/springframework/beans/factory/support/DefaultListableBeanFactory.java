@@ -41,10 +41,10 @@ public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFacto
         }
     }
 
-    @Override
-    public void addBeanPostProcessor(BeanPostProcessor beanPostProcessor) {
-
-    }
+//    @Override
+//    public void addBeanPostProcessor(BeanPostProcessor beanPostProcessor) {
+//
+//    }
 
     @Override
     public <T> Map<String, T> getBeansOfType(Class<T> type) throws BeanException {
