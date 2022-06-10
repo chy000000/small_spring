@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-06/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-07/src/test" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,7 +63,7 @@
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.test_xml (1)">
+  <component name="RunManager" selected="JUnit.ApiTest.test_xml (2)">
     <configuration name="ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-06" />
       <extension name="coverage">
@@ -75,22 +75,6 @@
       <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
       <option name="METHOD_NAME" value="test_BeanFactoryPostProcessorAndBeanPostProcessor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chy.springframework.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
-      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_file" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,6 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ApiTest.test_xml (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_xml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest.test_xml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-05" />
       <extension name="coverage">
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_xml (2)" />
         <item itemvalue="JUnit.ApiTest.test_xml (1)" />
         <item itemvalue="JUnit.ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" />
         <item itemvalue="JUnit.ApiTest.test_xml" />
         <item itemvalue="JUnit.ApiTest.test_url" />
-        <item itemvalue="JUnit.ApiTest.test_file" />
       </list>
     </recent_temporary>
   </component>
@@ -242,14 +242,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654255225273" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654310722043">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654838483588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654310722043" />
-    <state x="334" y="214" key="new project wizard" timestamp="1651979042795">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654838483588" />
+    <state x="334" y="214" key="new project wizard" timestamp="1654838508422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1651979042795" />
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654838508422" />
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1651637336010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
