@@ -2,7 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/DefaultListableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-06/src/main/java/com/chy/springframework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/BeansException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/PropertyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/Aware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/BeanClassLoaderAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/BeanFactoryAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/BeanNameAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/ConfigurableListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/DisposableBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/HierarchicalBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/InitializingBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/ListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/AutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/BeanFactoryPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/BeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/BeanReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/ConfigurableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/AbstractBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/BeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/DisposableBeanAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/ApplicationContextAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/ConfigurableApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/support/AbstractApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/support/AbstractXmlApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/support/AbtractRefreshableApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/support/ApplicationContextAwareProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/context/support/ClassPathXmlApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/ClassPathResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/DefaultResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/FileSystemResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/ResourceLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/core/io/UrlResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/main/java/com/chy/springframework/utils/ClassUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/test/java/com/chy/springframework/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/test/java/com/chy/springframework/test/bean/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/test/java/com/chy/springframework/test/bean/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/src/test/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/BeansException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/PropertyValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/PropertyValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/Aware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/BeanClassLoaderAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/BeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/BeanFactoryAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/BeanNameAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/ConfigurableListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/DisposableBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/HierarchicalBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/InitializingBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/ListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/AutowireCapableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/BeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/BeanFactoryPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/BeanPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/BeanReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/ConfigurableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/config/SingletonBeanRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/AbstractBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/AbstractBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/BeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/BeanDefinitionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/DisposableBeanAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/InstantiationStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/support/SimpleInstantiationStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/beans/factory/xml/XmlBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/ApplicationContextAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/ConfigurableApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/support/AbstractApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/support/AbstractXmlApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/support/AbtractRefreshableApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/support/ApplicationContextAwareProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/context/support/ClassPathXmlApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/ClassPathResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/DefaultResourceLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/FileSystemResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/Resource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/ResourceLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/core/io/UrlResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/classes/com/chy/springframework/utils/ClassUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/test-classes/com/chy/springframework/test/ApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/test-classes/com/chy/springframework/test/bean/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/test-classes/com/chy/springframework/test/bean/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-08/target/test-classes/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,7 +148,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-07/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-strp-08/src/test/resources" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -56,14 +160,14 @@
       <recent name="com.chy.springframework.beans" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\test" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\test\java" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-06\src\main\java" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\test\java\com\chy\springframework\test\bean" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-05\src\main\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-strp-08\src\test\resources" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-strp-08\src\main\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-07\src\test" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-07\src\test\java" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-07\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.test_xml (2)">
+  <component name="RunManager" selected="JUnit.ApiTest.test_xml (3)">
     <configuration name="ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-06" />
       <extension name="coverage">
@@ -75,22 +179,6 @@
       <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
       <option name="METHOD_NAME" value="test_BeanFactoryPostProcessorAndBeanPostProcessor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_url" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chy.springframework.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
-      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_url" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,6 +216,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ApiTest.test_xml (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_xml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest.test_xml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-05" />
       <extension name="coverage">
@@ -146,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_xml (3)" />
         <item itemvalue="JUnit.ApiTest.test_xml (2)" />
         <item itemvalue="JUnit.ApiTest.test_xml (1)" />
         <item itemvalue="JUnit.ApiTest.test_BeanFactoryPostProcessorAndBeanPostProcessor" />
         <item itemvalue="JUnit.ApiTest.test_xml" />
-        <item itemvalue="JUnit.ApiTest.test_url" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +279,7 @@
       <workItem from="1654162002016" duration="246000" />
       <workItem from="1654266180846" duration="883000" />
       <workItem from="1654310721900" duration="5089000" />
+      <workItem from="1654838484876" duration="5330000" />
     </task>
     <servers />
   </component>
@@ -190,10 +295,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1651979184815" />
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1654257920965">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1654846551862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654257920965" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654846551862" />
     <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1652020632233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -202,22 +307,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="378" width="639" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1654310792803" />
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1654319578092">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1654848466444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654319578092" />
-    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1654319578092">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654848466444" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1654848466444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654319578092" />
-    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1654319578092">
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654848466444" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1654848466443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654319578092" />
-    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1654319578092">
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654848466443" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1654848466444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654319578092" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654848466444" />
     <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1654319356820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,17 +351,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654838483588" />
-    <state x="334" y="214" key="new project wizard" timestamp="1654838508422">
+    <state x="334" y="214" key="new project wizard" timestamp="1654843907204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654838508422" />
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654843907204" />
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1651637336010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651637336010" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1651895760076">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654846097724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651895760076" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654846097724" />
   </component>
 </project>
