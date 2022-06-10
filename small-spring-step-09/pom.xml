@@ -2,24 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>small_spring</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
-    <artifactId>small_spring</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>small-spring-step-01</module>
-        <module>small-spring-step-02</module>
-        <module>small-spring-step-03</module>
-        <module>small-spring-step-04</module>
-        <module>small-spring-step-05</module>
-        <module>small-spring-step-06</module>
-        <module>small-spring-step-06</module>
-        <module>small-spring-step-07</module>
-        <module>small-spring-strp-08</module>
-        <module>small-spring-step-09</module>
-    </modules>
+    <artifactId>small-spring-step-09</artifactId>
 
     <dependencies>
         <dependency>
@@ -37,6 +27,11 @@
             <artifactId>cglib</artifactId>
             <version>3.3.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.openjdk.jol</groupId>
+            <artifactId>jol-cli</artifactId>
+            <version>0.14</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -52,6 +47,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>
