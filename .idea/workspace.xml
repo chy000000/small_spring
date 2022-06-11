@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-09/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-10/src/test" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -56,14 +56,30 @@
       <recent name="com.chy.springframework.beans" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-10\src\test" />
+      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-10\src\main\java" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-09\src\test\resources" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-09\src\test\java" />
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-09\src\main\java" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-strp-08\src\test\resources" />
-      <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-strp-08\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.test_factory_bean">
+  <component name="RunManager" selected="JUnit.ApiTest.test_event">
+    <configuration name="ApiTest.test_event" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_event" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest.test_factory_bean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-09" />
       <extension name="coverage">
@@ -91,22 +107,6 @@
       <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
       <option name="METHOD_NAME" value="test_prototype" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_xml (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chy.springframework.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
-      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_xml" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_event" />
         <item itemvalue="JUnit.ApiTest.test_factory_bean" />
         <item itemvalue="JUnit.ApiTest.test_prototype" />
         <item itemvalue="JUnit.ApiTest.test_xml (3)" />
         <item itemvalue="JUnit.ApiTest.test_xml (2)" />
-        <item itemvalue="JUnit.ApiTest.test_xml (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +176,7 @@
       <workItem from="1654266180846" duration="883000" />
       <workItem from="1654310721900" duration="5089000" />
       <workItem from="1654838484876" duration="5330000" />
+      <workItem from="1654927232907" duration="7979000" />
     </task>
     <servers />
   </component>
@@ -191,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1651979184815" />
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1654846551862">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1654937349778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654846551862" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654937349778" />
     <state x="443" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1652020632233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,38 +204,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="378" width="639" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1654310792803" />
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1654870273603">
+    <state width="1876" height="321" key="GridCell.Tab.0.bottom" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654870273603" />
-    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1654870273603">
+    <state width="1876" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.0.center" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654870273603" />
-    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1654870273602">
+    <state width="1876" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.0.left" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654870273602" />
-    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1654870273603">
+    <state width="1876" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.0.right" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654870273603" />
-    <state width="1876" height="321" key="GridCell.Tab.1.bottom" timestamp="1654869626162">
+    <state width="1876" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.1.bottom" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654869626162" />
-    <state width="1876" height="321" key="GridCell.Tab.1.center" timestamp="1654869626162">
+    <state width="1876" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.1.center" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="321" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654869626162" />
-    <state width="1876" height="321" key="GridCell.Tab.1.left" timestamp="1654869626162">
+    <state width="1876" height="321" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.1.left" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="321" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654869626162" />
-    <state width="1876" height="321" key="GridCell.Tab.1.right" timestamp="1654869626162">
+    <state width="1876" height="321" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
+    <state width="1876" height="321" key="GridCell.Tab.1.right" timestamp="1654873543507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="321" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654869626162" />
+    <state width="1876" height="321" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654873543507" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1654255105596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,21 +244,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654255225273" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654838483588">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1654927241350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654838483588" />
-    <state x="334" y="214" key="new project wizard" timestamp="1654866937126">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654927241350" />
+    <state x="334" y="214" key="new project wizard" timestamp="1654928058728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654866937126" />
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654928058728" />
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1651637336010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651637336010" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654846097724">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654937166442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654846097724" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654937166442" />
   </component>
 </project>
