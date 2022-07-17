@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5d426adf-e892-4274-855d-54c331c37794" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-11/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/small-spring-step-12/src/test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,7 +61,23 @@
       <recent name="C:\Users\chy\Desktop\DataBase\small_spring\small-spring-step-09\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.test_proxy_method">
+  <component name="RunManager" selected="JUnit.ApiTest.test_aop (1)">
+    <configuration name="ApiTest.test_aop (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chy.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_aop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest.test_aop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-11" />
       <extension name="coverage">
@@ -91,22 +105,6 @@
       <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
       <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
       <option name="METHOD_NAME" value="test_dynamic" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_event" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="small-spring-step-10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chy.springframework.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chy.springframework.test" />
-      <option name="MAIN_CLASS_NAME" value="com.chy.springframework.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_event" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_aop (1)" />
         <item itemvalue="JUnit.ApiTest.test_proxy_method" />
         <item itemvalue="JUnit.ApiTest.test_dynamic" />
         <item itemvalue="JUnit.ApiTest.test_aop" />
         <item itemvalue="JUnit.ApiTest.test_prototype" />
-        <item itemvalue="JUnit.ApiTest.test_event" />
       </list>
     </recent_temporary>
   </component>
@@ -248,14 +246,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="450" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1657720511893" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1657714911828">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1658045974292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657714911828" />
-    <state x="334" y="214" key="new project wizard" timestamp="1657694054937">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658045974292" />
+    <state x="334" y="214" key="new project wizard" timestamp="1658046021040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1657694054937" />
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1658046021040" />
     <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1651637336010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
